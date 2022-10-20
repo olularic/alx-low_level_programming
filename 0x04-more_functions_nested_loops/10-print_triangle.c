@@ -23,6 +23,7 @@ putchar('#');
 if (inc1 == size)
 {
 continue;
+}
 putchar('\n');
 }
 }
