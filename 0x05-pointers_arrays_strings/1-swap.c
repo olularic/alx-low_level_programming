@@ -1,5 +1,4 @@
-#include MAIN_H
-#include <stdio>
+#include "main.h"
 /**
 *swap_int - swaps the value of two integer
 *@a : 1 pointer
