@@ -1,9 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdio.h>
-/**
-* File: prototype for all the task is written here and for _putchar
-*/
+#include <stdlib.h>
 int _putchar(char c);
 char *create_array(unsigned int size, char c);
 char *_strdup(char *str);
